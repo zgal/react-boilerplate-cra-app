@@ -1,6 +1,6 @@
 {
   "name": "@bit/zgal.react-tutorial.product-list",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://bit.dev/zgal/react-tutorial/product-list",
   "main": "dist/index.js",
   "componentId": {
