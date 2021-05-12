@@ -1,0 +1,22 @@
+{
+  "name": "@bit/zgal.react-tutorial.product-list",
+  "version": "0.0.2",
+  "homepage": "https://bit.dev/zgal/react-tutorial/product-list",
+  "main": "dist/index.js",
+  "componentId": {
+    "scope": "zgal.react-tutorial",
+    "name": "product-list",
+    "version": "0.0.2"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "^16.8.6"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react@1.0.30"
+    }
+  }
+}
